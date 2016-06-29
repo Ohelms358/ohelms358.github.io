@@ -1,0 +1,69 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* number */
+.ui-content.startScreen_number {
+	padding: 15px 15px 15px 15px;
+}
+/* number1 */
+.startScreen_number1 {
+	margin: 4px 0px 4px 0px;
+}
+/* number2 */
+.startScreen_number2 {
+	margin: 4px 0px 4px 0px;
+}
+/* addition_sign */
+#startScreen_addition_sign {
+
+}
+.ui-btn.startScreen_addition_sign {
+	margin: 5px 5px 5px 5px;
+}
+/* subtraction_sign */
+#startScreen_subtraction_sign {
+
+}
+.ui-btn.startScreen_subtraction_sign {
+	margin: 5px 5px 5px 5px;
+}
+/* multiplication_sign */
+#startScreen_multiplication_sign {
+
+}
+.ui-btn.startScreen_multiplication_sign {
+	margin: 5px 5px 5px 5px;
+}
+/* Division_sign */
+#startScreen_Division_sign {
+
+}
+.ui-btn.startScreen_Division_sign {
+	margin: 5px 5px 5px 5px;
+}
+/* mobilelabel_24 */
+.startScreen_mobilelabel_24 {
+	text-decoration: none; font-weight: normal; text-align: center; font-family: Helvetica; font-size: 16px;
+	margin: 4px 4px 4px 4px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobileimage_25 */
+.startScreen_mobileimage_25 {
+	margin: 4px 0px 4px 0px;
+	width: 199px; height: 139px;
+	display: block;
+}
+/* mobilelabel_26 */
+.startScreen_mobilelabel_26 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: center; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter */
+.startScreen_mobilefooter {
+	min-height:38px;
+}
